@@ -1,0 +1,8 @@
+{
+  "attention": {
+    "test": {
+      "greedy": null
+    }
+  }
+}
+BLEU: 0.00
